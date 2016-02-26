@@ -32,7 +32,9 @@ link:node-js-getting-started.html#launch[-> Create your first Node.js applicatio
 link:node-js-project-structure.html[-> Learn about basic Node.js project structure] +
 link:node-js-dependency-management.html[-> Manage Javascript dependencies with NPM] +
 link:node-js-environment-variables.html[-> Configure your application using Environment Variables] +
-link:https://blog.openshift.com/run-your-nodejs-projects-on-openshift-in-two-simple-steps/[-> Find out how to adapt existing Nodejs applications to run on OpenShift]
+link:node-js-markers.html[->Node.js markers] +
+link:https://blog.openshift.com/run-your-nodejs-projects-on-openshift-in-two-simple-steps/[-> Find out how to adapt existing Nodejs applications to run on OpenShift] +
+link:https://blog.openshift.com/any-version-of-nodejs-you-want-in-the-cloud-openshift-does-it-paas-style/[->Run Any Version of Node.JS You Want in the Cloud]
 
 === Cartridge Integrations
 The `nodejs` cart has out-of-the-box integration support with RedHat add-on cartridges.
